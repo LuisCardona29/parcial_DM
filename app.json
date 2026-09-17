@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "UrbaCargo",
+    "slug": "urbacargo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "urbacargo",
+    "userInterfaceStyle": "light",
+    "android": { "edgeToEdgeEnabled": true },
+    "plugins": ["expo-router"]
+  }
+}
